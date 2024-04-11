@@ -4,6 +4,12 @@ author:
   email: mabobakrelsedik86@gmail.com
 baseurl: "/fellowtraveller"
 
+# Global Permalink
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title:output_ext
+
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
