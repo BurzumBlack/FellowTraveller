@@ -14,10 +14,10 @@ A fellow traveler can research in Computer Science; but is not a Computer Scient
 
 **What is the aim of this website**<br>
 This is a place for sharing my ideas about topics of interest to me and hopefully for others. 
-Here, I'll disseminate the outcome of my readings and thinking about a variety of topics, with the aim to open a fruitful discussion, to help me think and deepen my understanding, and to share ideas and learn from others who share the same interest.
+Here, I'll disseminate the outcome of my readings and thinking about a variety of topics, with the aim to open a fruitful discussion, to help me think and deepen my understanding, and to share ideas and learn from others who share the same interests.
 
-**How can you comment or contact me**<br>
-For technical reasons, there will be no comments section for now. Nonetheless, my email is included and its my main way of communicating. If you would like to agree, disagree, or comment on any of my writings, send me email, I'll read it and respond back as soon as I've the time. If you want me to open the discussion between us to the public, I'll ask for your written permission before proceeding to open the discussion in public. 
+**How can you comment or contribute**<br>
+For technical reasons, there will be no comments section for now. Nonetheless, my email is included and its my main way of communicating. If you would like to agree, disagree, or comment on any of my writings, send me email, I'll read it and respond back as soon as I've time. If you want me to open the discussion between us to the public, I'll ask for your written permission before proceeding to open the discussion in public. 
 
 **How can you use the information published here**<br>
 Please refer to the licence information below.
