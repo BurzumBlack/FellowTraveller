@@ -6,7 +6,7 @@ author:
   - 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;Nowadays there are many opportunities exist for people who wants to learn nearly anything. The internet is making such thing possible, and the online learning communities are getting bigger. One of these learning communities is OSSU [^1]. OSSU is providing a free open source education, that is equivalent to Bachelor Degree in Computer Science. They follow The Association for Computing Machinery (ACM) Curriculum guidelines for Undergraduate Programs in Computer Science [^2]. Hence, they are, as an online learning community, a credible place.
+&nbsp;&nbsp;&nbsp;&nbsp;Nowadays there are many opportunities for people who wants to learn nearly anything. The internet is making such thing possible, and the online learning communities are getting bigger. One of these learning communities is OSSU [^1]. OSSU is providing a free open source education, that is equivalent to Bachelor Degree in Computer Science. They follow The Association for Computing Machinery (ACM) Curriculum guidelines for Undergraduate Programs in Computer Science [^2]. Hence, they are, as an online learning community, a credible place.
 
 &nbsp;&nbsp;&nbsp;&nbsp;An important question, yet many forget to ask is: Why Computer Science Education; What is the aim of learning Computer Science; Is it to become a good Software Engineer (SE); or to become well rounded in everything related to Computation in general; and if the latter is true, what is the value - intellectual or practical - of gaining such knowledge. These, at least in my opinion, are an important questions that we must consider, before going further in this discussion.
 
