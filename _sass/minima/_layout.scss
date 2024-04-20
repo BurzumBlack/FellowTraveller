@@ -181,7 +181,8 @@
 
   .footer-col {
     width: calc(100% - (#{$spacing-unit} / 2));
-    padding: 0 ($spacing-unit * .5);
+    padding: 0 ($spacing-unit * .1); /*changed this from .5 to .1 to make the last line of license information appear on one line,
+    instead of dividing it to two lines.  */
 
     &:first-child {
       padding-right: $spacing-unit * .5;
